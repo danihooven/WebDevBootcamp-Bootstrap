@@ -1,6 +1,6 @@
 # WebDevBootcamp-Bootstrap
 
-Public Site: 
+Published Site: https://danihooven.github.io/WebDevBootcamp-Bootstrap/
 
 Udemy - The Complete 2021 Web Development Bootcamp
 Section 6: Introduction to Bootstrap
